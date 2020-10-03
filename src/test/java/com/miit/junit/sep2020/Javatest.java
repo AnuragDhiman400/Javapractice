@@ -18,6 +18,11 @@ public class Javatest {
 		assertEquals(5, 6);
 		
 	}
+	@Test
+	public void test3()
+	{
+		assertEquals(8,9);
+	}
 
 
 }
